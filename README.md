@@ -1,4 +1,4 @@
-# Team Website
+# Abrax "Matteo Roppo" Presentation Website
 
 Before it started to become a kind of portfolio, this website has been our **first Bootcamp project**. At that time, we were 5 trainees following a “8+4” weeks of [full-stack JavaScript practice](http://www.turnintocoders.it/en/bootcamp.html) in Turin, Italy.
 
